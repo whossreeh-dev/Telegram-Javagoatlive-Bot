@@ -69,4 +69,4 @@ if __name__ == "__main__":
 
     # Start Telegram Bot polling
     print("Bot is starting...")
-    bot.infinity_polling()
+    bot.polling()
